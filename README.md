@@ -50,7 +50,7 @@ conda-lock install --name cat-bots conda-lock.yml
 conda activate cat-bots
 
 python -m pip install -e .[dev]     # the catbots package, editable
-python -m pytest                    # 39 tests, ~2 min
+python -m pytest                    # 40 tests, ~2 min
 ```
 
 Troubleshooting:
@@ -100,7 +100,28 @@ requirements; without them pip installs duplicate, older copies.
 
 ## 3. Running the pipeline
 
-### 3.1 On a benchmark oracle, from Python
+### 3.1 Quick start: one campaign from the command line
+
+```
+python experiments/run_pipeline.py --benchmark shields_arylation
+```
+
+This runs the pipeline once on a bundled benchmark, then random search and plain BO with the same number of
+experiments, and prints the experiments per stage, the recommended conditions and each strategy's result.
+Nothing needs editing: the factor roles and reference conditions of every benchmark are predefined.
+
+| Option | Effect |
+|---|---|
+| `--benchmark {shields_arylation,doyle_arylation,perera_suzuki,cernak_cn}` | Which dataset acts as the lab |
+| `--reference N` | Which reference condition (substrate pair, or fixed base/temperature/…) to run; default 0 |
+| `--list-references` | Print the available reference conditions and exit |
+| `--prescreen` | Choose the fixed factors with the 30-experiment WP0 pre-screen first (not Doyle) |
+| `--no-baselines` | Skip random search and BO |
+
+Time per campaign, including baselines: Shields ~5 s, Doyle and Suzuki ~1–2 min, Cernak ~35 min (almost all of it
+plain BO over 29.6k candidates). Nothing is written to `results/`.
+
+### 3.2 From Python (e.g. on your own dataset)
 
 ```python
 from catbots import NONE, load_benchmark
@@ -140,7 +161,7 @@ result = run_overview_pipeline(oracle, spec_wp0, pre.reference, ligand_desc, X, 
 
 Baselines on the same oracle: `catbots.campaign.run_random`, `run_bo` and `run_generality_bo`.
 
-### 3.2 Reproducing the results
+### 3.3 Reproducing the results
 
 Run from the repo root in the `cat-bots` environment. Finished runs are cached as JSON under each
 `per_reference/` folder, so re-running only redraws figures and tables; delete a folder to recompute.

@@ -55,7 +55,7 @@ pipeline itself (screening → low-data models → reduced space → BO) is the 
 
 | Before | Now |
 |---|---|
-| ~25 scripts in `src/ligand_screening/`, `src/substrate_screening/`, `src/utils/`, each with hard-coded relative paths | `src/catbots/` package (`pip install -e .`), 39 automated tests. Old scripts kept for reference only |
+| ~25 scripts in `src/ligand_screening/`, `src/substrate_screening/`, `src/utils/`, each with hard-coded relative paths | `src/catbots/` package (`pip install -e .`), 40 automated tests. Old scripts kept for reference only |
 | Kennard-Stone copied into 6 files | One implementation (`catbots.selection`), tested to select **identically** to the original |
 | Stages run by hand, with manual CSV steps in between | `catbots.pipeline.run_overview_pipeline`: all stages in one call, every experiment logged with its stage, no reaction ever repeated |
 | — | `ReactionOracle`: a measured dataset that answers "experiments" and counts the budget |
@@ -341,7 +341,7 @@ Against BO with the right objective, the pipeline is at best level.
 
 ```
 conda activate cat-bots                     # core env (from conda-lock.yml)
-python -m pip install -e .[dev] && pytest   # 39 tests
+python -m pip install -e .[dev] && pytest   # 40 tests
 
 python experiments/overview_pipeline_doyle.py --features {kraken_rdkit,chemeleon,combined}
 python experiments/plot_doyle_ablation.py
