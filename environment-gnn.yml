@@ -1,0 +1,27 @@
+# GPU environment for CheMeleon / Chemprop work (embeddings, two-tower models, fine-tuning).
+# The core pipeline stays in environment.yml (no PyTorch); this env only produces cached embeddings
+# and runs the neural experiments. RTX 50-series GPUs need CUDA >= 12.8 wheels; torch is pinned to an
+# exact +cu130 build because PyPI's newer CPU-only wheel otherwise wins (driver must support CUDA 13).
+#
+#   conda env create -f environment-gnn.yml
+#   conda activate catbots-gnn && python -m pip install -e . --no-deps
+name: catbots-gnn
+channels:
+  - conda-forge
+channel_priority: strict
+
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas<3
+  - scipy
+  - scikit-learn
+  - pytest
+  - pip
+  - pip:
+      - --extra-index-url https://download.pytorch.org/whl/cu130
+      - torch==2.14.1+cu130
+      # RDKit must come from PyPI here: chemprop's cuik_molmaker extension is linked against the
+      # PyPI wheel's DLLs (site-packages/rdkit.libs) and fails to import with conda-forge RDKit
+      - rdkit
+      - chemprop>=2.2

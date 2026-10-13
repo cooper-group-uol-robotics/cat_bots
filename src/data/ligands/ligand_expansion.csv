@@ -1,0 +1,198 @@
+Filename,Name,Canonical_SMILES
+Phosphines1-500.sdf,"(3aR,8aR)-Tetrahydro-N,N,2,2-tetramethyl-4,4,8,8-tetraphenyl-1,3-dioxolo[4,5-...",CN(C)P1OC(c2ccccc2)(c2ccccc2)[C@@H]2OC(C)(C)O[C@H]2C(c2ccccc2)(c2ccccc2)O1
+Phosphines1-500.sdf,"[(1S,2S,5R)-5-Methyl-2-(1-methylethyl)cyclohexyl]diphenylphosphine",CC(C)[C@@H]1CC[C@@H](C)C[C@@H]1P(c1ccccc1)c1ccccc1
+Phosphines1-500.sdf,"2-[2-[(2R,5R)-2,5-Dimethyl-1-phospholanyl]phenyl]-1,3-dioxolane",C[C@@H]1CC[C@@H](C)P1c1ccccc1C1OCCO1
+Phosphines1-500.sdf,Triethylphosphine,CCP(CC)CC
+Phosphines1-500.sdf,Tris(hydroxymethyl)phosphine,OCP(CO)CO
+Phosphines1-500.sdf,"5-[(3aR,8aR)-Tetrahydro-2,2-dimethyl-4,4,8,8-tetraphenyl-1,3-dioxolo[4,5-e][1...",CC1(C)O[C@@H]2[C@@H](O1)C(c1ccccc1)(c1ccccc1)OP(N1c3ccccc3C=Cc3ccccc31)OC2(c1ccccc1)c1ccccc1
+Phosphines1001-1500.sdf,Ethylbis(1-methylethyl)phosphine,CCP(C(C)C)C(C)C
+Phosphines1001-1500.sdf,"(1,1-Dimethylethyl)di-2-furanylphosphine",CC(C)(C)P(c1ccco1)c1ccco1
+Phosphines1001-1500.sdf,"rel-(1R,3S,5S,7R)-1,3,5,7-Tetramethyl-8-phenyl-2,4,6-trioxa-8-phosphatricyclo...",C[C@]12C[C@@]3(C)O[C@](C)(C[C@@](C)(O1)P3c1ccccc1)O2
+Phosphines1001-1500.sdf,Tricyclopropylphosphine,C1CC1P(C1CC1)C1CC1
+Phosphines1001-1500.sdf,(2-Methylpropyl)diphenylphosphine,CC(C)CP(c1ccccc1)c1ccccc1
+Phosphines1001-1500.sdf,(Methoxymethyl)diphenylphosphine,COCP(c1ccccc1)c1ccccc1
+Phosphines1001-1500.sdf,"[1,1′-Biphenyl]-2-ylbis(1-methylethyl)phosphine",CC(C)P(c1ccccc1-c1ccccc1)C(C)C
+Phosphines1001-1500.sdf,"4,4′,4′′-Phosphinidynetris[pyridine]",c1cc(P(c2ccncc2)c2ccncc2)ccn1
+Phosphines1001-1500.sdf,2-(Diphenylphosphino)pyrimidine,c1ccc(P(c2ccccc2)c2ncccn2)cc1
+Phosphines1001-1500.sdf,"Bis(1,1-dimethylethyl)(2-methoxyphenyl)phosphine",COc1ccccc1P(C(C)(C)C)C(C)(C)C
+Phosphines1001-1500.sdf,"N,N-Diethyl-P,P-diphenylphosphinous amide",CCN(CC)P(c1ccccc1)c1ccccc1
+Phosphines1001-1500.sdf,"Bis(1,1-dimethylethyl)-1-naphthalenylphosphine",CC(C)(C)P(c1cccc2ccccc12)C(C)(C)C
+Phosphines1001-1500.sdf,1-(Diphenylphosphino)-1H-pyrrole,c1ccc(P(c2ccccc2)n2cccc2)cc1
+Phosphines1001-1500.sdf,"1,1′-(Phenylphosphinidene)bis[piperidine]",c1ccc(P(N2CCCCC2)N2CCCCC2)cc1
+Phosphines1001-1500.sdf,Tris[4-(1-methylethyl)phenyl]phosphine,CC(C)c1ccc(P(c2ccc(C(C)C)cc2)c2ccc(C(C)C)cc2)cc1
+Phosphines1001-1500.sdf,Tris[2-(1-methylethyl)phenyl]phosphine,CC(C)c1ccccc1P(c1ccccc1C(C)C)c1ccccc1C(C)C
+Phosphines1001-1500.sdf,"(2,6-Dimethoxyphenyl)diphenylphosphine",COc1cccc(OC)c1P(c1ccccc1)c1ccccc1
+Phosphines1001-1500.sdf,"N,N,N′,N′,N′′,N′′-Hexaphenylphosphorous triamide",c1ccc(N(c2ccccc2)P(N(c2ccccc2)c2ccccc2)N(c2ccccc2)c2ccccc2)cc1
+Phosphines1001-1500.sdf,Trimethyl trithiophosphite,CSP(SC)SC
+Phosphines1001-1500.sdf,"Bis(1,1-dimethylethyl)(trimethylsilyl)phosphine",CC(C)(C)P(C(C)(C)C)[Si](C)(C)C
+Phosphines1001-1500.sdf,"1,1′,1′′-Phosphinidynetris[N,N-dimethylmethanamine]",CN(C)CP(CN(C)C)CN(C)C
+Phosphines1001-1500.sdf,Dicyclopentylphenylphosphine,c1ccc(P(C2CCCC2)C2CCCC2)cc1
+Phosphines1001-1500.sdf,Cyclopentyldiphenylphosphine,c1ccc(P(c2ccccc2)C2CCCC2)cc1
+Phosphines1001-1500.sdf,"3,3′,3′′-Phosphinidynetris[pyridine]",c1cncc(P(c2cccnc2)c2cccnc2)c1
+Phosphines1001-1500.sdf,"Phosphine, bis(1-methylethyl)(2-methyl-1-naphthalenyl)-",Cc1ccc2ccccc2c1P(C(C)C)C(C)C
+Phosphines1001-1500.sdf,[2-(1-Methylethoxy)ethyl]diphenylphosphine,CC(C)OCCP(c1ccccc1)c1ccccc1
+Phosphines1001-1500.sdf,"N-(1,1-Dimethylethyl)-P,P-diphenylphosphinous amide",CC(C)(C)NP(c1ccccc1)c1ccccc1
+Phosphines1001-1500.sdf,"N,P,P-Triphenylphosphinous amide",c1ccc(NP(c2ccccc2)c2ccccc2)cc1
+Phosphines1001-1500.sdf,3-[(Diphenylphosphino)methyl]pyridine,c1ccc(P(Cc2cccnc2)c2ccccc2)cc1
+Phosphines1001-1500.sdf,1-(Diphenylphosphino)pyrrolidine,c1ccc(P(c2ccccc2)N2CCCC2)cc1
+Phosphines1001-1500.sdf,[2-(Methoxymethyl)phenyl]diphenylphosphine,COCc1ccccc1P(c1ccccc1)c1ccccc1
+Phosphines1001-1500.sdf,2-Furanyldiphenylphosphine,c1ccc(P(c2ccccc2)c2ccco2)cc1
+Phosphines1001-1500.sdf,"Phosphinous acid, diphenyl-, 2-methylphenyl ester",Cc1ccccc1OP(c1ccccc1)c1ccccc1
+Phosphines1001-1500.sdf,2-(Diphenylphosphino)-6-methoxypyridine,COc1cccc(P(c2ccccc2)c2ccccc2)n1
+Phosphines1001-1500.sdf,"Tris([1,1′-biphenyl]-4-yl)phosphine",c1ccc(-c2ccc(P(c3ccc(-c4ccccc4)cc3)c3ccc(-c4ccccc4)cc3)cc2)cc1
+Phosphines1001-1500.sdf,Di-9-anthracenylphenylphosphine,c1ccc(P(c2c3ccccc3cc3ccccc23)c2c3ccccc3cc3ccccc23)cc1
+Phosphines1001-1500.sdf,"Diphenyl(2,4,6-trimethoxyphenyl)phosphine",COc1cc(OC)c(P(c2ccccc2)c2ccccc2)c(OC)c1
+Phosphines1001-1500.sdf,"Tris([1,1′:3′,1′′-terphenyl]-5′-yl)phosphine",c1ccc(-c2cc(-c3ccccc3)cc(P(c3cc(-c4ccccc4)cc(-c4ccccc4)c3)c3cc(-c4ccccc4)cc(-c4ccccc4)c3)c2)cc1
+Phosphines1001-1500.sdf,"Tris(2,5-dimethoxyphenyl)phosphine",COc1ccc(OC)c(P(c2cc(OC)ccc2OC)c2cc(OC)ccc2OC)c1
+Phosphines1001-1500.sdf,"Dicyclohexyl(2,4,6-trimethoxyphenyl)phosphine",COc1cc(OC)c(P(C2CCCCC2)C2CCCCC2)c(OC)c1
+Phosphines1001-1500.sdf,"1,1′-(Phenylphosphinidene)bis[1-(2,4,6-trimethylphenyl)methanone]",Cc1cc(C)c(C(=O)P(C(=O)c2c(C)cc(C)cc2C)c2ccccc2)c(C)c1
+Phosphines1001-1500.sdf,"[Bis(tricyclo[3.3.1.13,7]dec-1-yl)phosphino]phenylmethanone",O=C(c1ccccc1)P(C12CC3CC(CC(C3)C1)C2)C12CC3CC(CC(C3)C1)C2
+Phosphines1001-1500.sdf,,Cc1ccc(S(=O)(=O)N2C[C@@H]3C[C@H]2C[P@@]3c2ccccc2)cc1
+Phosphines1001-1500.sdf,"1-(1,1-Dimethylethyl)phosphorinane",CC(C)(C)P1CCCCC1
+Phosphines1001-1500.sdf,1-Phenylphospholane,c1ccc(P2CCCC2)cc1
+Phosphines1001-1500.sdf,1-Phenylphosphepane,c1ccc(P2CCCCCC2)cc1
+Phosphines1001-1500.sdf,"N,N-Dimethyl-P,P-diphenylphosphinous amide",CN(C)P(c1ccccc1)c1ccccc1
+Phosphines1001-1500.sdf,"1,1′,1′′-Phosphinidynetris[1H-pyrrole]",c1ccn(P(n2cccc2)n2cccc2)c1
+Phosphines1001-1500.sdf,Tri-3-furanylphosphine,c1cc(P(c2ccoc2)c2ccoc2)co1
+Phosphines1001-1500.sdf,Di-2-furanylphenylphosphine,c1ccc(P(c2ccco2)c2ccco2)cc1
+Phosphines1001-1500.sdf,(2-Methyl-1-naphthalenyl)diphenylphosphine,Cc1ccc2ccccc2c1P(c1ccccc1)c1ccccc1
+Phosphines1001-1500.sdf,"Tris(2,6-dimethylphenyl)phosphine",Cc1cccc(C)c1P(c1c(C)cccc1C)c1c(C)cccc1C
+Phosphines1001-1500.sdf,"5-(1,1-Dimethylethyl)-5H-benzo[b]phosphindole",CC(C)(C)p1c2ccccc2c2ccccc21
+Phosphines1001-1500.sdf,"Phenyl P,P-di-1H-pyrrol-1-ylphosphinite",c1ccc(OP(n2cccc2)n2cccc2)cc1
+Phosphines1001-1500.sdf,"Tris(2,4,5-trimethylphenyl)phosphine",Cc1cc(C)c(P(c2cc(C)c(C)cc2C)c2cc(C)c(C)cc2C)cc1C
+Phosphines1001-1500.sdf,"(2,4,6-Trimethylbenzoyl)diphenylphosphine",Cc1cc(C)c(C(=O)P(c2ccccc2)c2ccccc2)c(C)c1
+Phosphines1001-1500.sdf,"Bis(2,4-dimethoxyphenyl)phenylphosphine",COc1ccc(P(c2ccccc2)c2ccc(OC)cc2OC)c(OC)c1
+Phosphines1001-1500.sdf,[2-(9-Phenanthrenyl)phenyl]diphenylphosphine,c1ccc(P(c2ccccc2)c2ccccc2-c2cc3ccccc3c3ccccc23)cc1
+Phosphines1001-1500.sdf,"Tris(2,2′′,4,4′′,6,6′′-hexamethyl[1,1′:3′,1′′-terphenyl]-5′-yl)phosphine",Cc1cc(C)c(-c2cc(-c3c(C)cc(C)cc3C)cc(P(c3cc(-c4c(C)cc(C)cc4C)cc(-c4c(C)cc(C)cc4C)c3)c3cc(-c4c(C)cc(C)cc4C)cc(-c4c(C)cc(C)cc4C)c3)c2)c(C)c1
+Phosphines1001-1500.sdf,Tris(2-benzofuranyl)phosphine,c1ccc2oc(P(c3cc4ccccc4o3)c3cc4ccccc4o3)cc2c1
+Phosphines1501-2000.sdf,"(1S,4S,5R)-2-[(4-Methylphenyl)sulfonyl]-5-phenyl-2-aza-5-phosphabicyclo[2.2.1...",Cc1ccc(S(=O)(=O)N2C[C@@H]3C[C@H]2C[P@@]3c2ccccc2)cc1
+Phosphines1501-2000.sdf,,Cc1ccc(S(=O)(=O)N2C[C@@H]3C[C@H]2C[P@]3c2ccccc2)cc1
+Phosphines1501-2000.sdf,Pentaphenylphosphole,c1ccc(-c2c(-c3ccccc3)c(-c3ccccc3)p(-c3ccccc3)c2-c2ccccc2)cc1
+Phosphines1501-2000.sdf,"(1S,4S,5S)-5-(4-Methoxyphenyl)-2-[(4-methylphenyl)sulfonyl]-2-aza-5-phosphabi...",COc1ccc([P@@]2C[C@@H]3C[C@H]2CN3S(=O)(=O)c2ccc(C)cc2)cc1
+Phosphines1501-2000.sdf,"(1S,4S,5S)-2-[(4-Methylphenyl)sulfonyl]-5-(1-naphthalenyl)-2-aza-5-phosphabic...",Cc1ccc(S(=O)(=O)N2C[C@@H]3C[C@H]2C[P@]3c2cccc3ccccc23)cc1
+Phosphines1501-2000.sdf,"8-[3,6-Dimethoxy-2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]-7,7,9,9-te...",COc1ccc(OC)c(P2C(C)(C)CC3(CC2(C)C)OCCO3)c1-c1c(C(C)C)cc(C(C)C)cc1C(C)C
+Phosphines1501-2000.sdf,"1-tert-Butyl-3,4-dimethylphosphole",Cc1cp(C(C)(C)C)cc1C
+Phosphines1501-2000.sdf,3-(Diphenylphosphino)pyridine,c1ccc(P(c2ccccc2)c2cccnc2)cc1
+Phosphines1501-2000.sdf,"1-Butyl-3,4-dimethyl-1H-phosphole",CCCCp1cc(C)c(C)c1
+Phosphines1501-2000.sdf,"[1,1′-Biphenyl]-4-yldiphenylphosphine",c1ccc(-c2ccc(P(c3ccccc3)c3ccccc3)cc2)cc1
+Phosphines1501-2000.sdf,"1,1′-(Phenylphosphinidene)bis[1H-pyrrole]",c1ccc(P(n2cccc2)n2cccc2)cc1
+Phosphines1501-2000.sdf,Dicyclohexyl(2-phenylethyl)phosphine,c1ccc(CCP(C2CCCCC2)C2CCCCC2)cc1
+Phosphines1501-2000.sdf,"Bis(1,1-dimethylethyl)tricyclo[3.3.1.13,7]dec-1-ylphosphine",CC(C)(C)P(C(C)(C)C)C12CC3CC(CC(C3)C1)C2
+Phosphines1501-2000.sdf,4-(Diphenylphosphino)morpholine,c1ccc(P(c2ccccc2)N2CCOCC2)cc1
+Phosphines1501-2000.sdf,2-(Diethylphosphino)-1-phenyl-1H-pyrrole,CCP(CC)c1cccn1-c1ccccc1
+Phosphines1501-2000.sdf,"2,4-Bis(1,1-dimethylethyl)phenyl P,P-bis(1-methylethyl)phosphinite",CC(C)P(Oc1ccc(C(C)(C)C)cc1C(C)(C)C)C(C)C
+Phosphines1501-2000.sdf,1-[2-(Dibutylphosphino)phenyl]-1H-pyrrole,CCCCP(CCCC)c1ccccc1-n1cccc1
+Phosphines1501-2000.sdf,"N-(6-Methyl-2-pyridinyl)-P,P-diphenylphosphinous amide",Cc1cccc(NP(c2ccccc2)c2ccccc2)n1
+Phosphines1501-2000.sdf,2-(Dibutylphosphino)-1-phenyl-1H-pyrrole,CCCCP(CCCC)c1cccn1-c1ccccc1
+Phosphines1501-2000.sdf,2-(Dibutylphosphino)-1-phenyl-1H-imidazole,CCCCP(CCCC)c1nccn1-c1ccccc1
+Phosphines1501-2000.sdf,2-[Bis(2-methylpropyl)phosphino]-1-phenyl-1H-pyrrole,CC(C)CP(CC(C)C)c1cccn1-c1ccccc1
+Phosphines1501-2000.sdf,2-[Bis(2-methylpropyl)phosphino]-1-phenyl-1H-imidazole,CC(C)CP(CC(C)C)c1nccn1-c1ccccc1
+Phosphines1501-2000.sdf,Tris(4-methoxy-2-methylphenyl)phosphine,COc1ccc(P(c2ccc(OC)cc2C)c2ccc(OC)cc2C)c(C)c1
+Phosphines1501-2000.sdf,1-(Diphenylphosphino)-1H-indole,c1ccc(P(c2ccccc2)n2ccc3ccccc32)cc1
+Phosphines1501-2000.sdf,"Tris(2,2′′,6,6′′-tetramethyl[1,1′:3′,1′′-terphenyl]-5′-yl)phosphine",Cc1cccc(C)c1-c1cc(-c2c(C)cccc2C)cc(P(c2cc(-c3c(C)cccc3C)cc(-c3c(C)cccc3C)c2)c2cc(-c3c(C)cccc3C)cc(-c3c(C)cccc3C)c2)c1
+Phosphines1501-2000.sdf,2-(Diphenylphosphino)-1-phenyl-1H-pyrrole,c1ccc(-n2cccc2P(c2ccccc2)c2ccccc2)cc1
+Phosphines1501-2000.sdf,9-(Diphenylphosphino)-9H-carbazole,c1ccc(P(c2ccccc2)n2c3ccccc3c3ccccc32)cc1
+Phosphines1501-2000.sdf,,c1ccc(CN2C[C@@H]3C[C@H]2C[P@]3c2ccccc2)cc1
+Phosphines1501-2000.sdf,,c1ccc(CN2C[C@@H]3C[C@H]2C[P@@]3c2ccccc2)cc1
+Phosphines1501-2000.sdf,"2-[Bis(1,1-dimethylethyl)phosphino]-1-(1-naphthalenyl)-1H-pyrrole",CC(C)(C)P(c1cccn1-c1cccc2ccccc12)C(C)(C)C
+Phosphines1501-2000.sdf,9-(Di-1H-pyrrol-1-ylphosphino)-9H-carbazole,c1ccc2c(c1)c1ccccc1n2P(n1cccc1)n1cccc1
+Phosphines1501-2000.sdf,"Phosphine, dicyclopentyl[2,2′′,4,4′′,6,6′′-hexakis(1-methylethyl)[1,1′:3′,1′′...",CC(C)c1cc(C(C)C)c(-c2cc(-c3c(C(C)C)cc(C(C)C)cc3C(C)C)cc(P(C3CCCC3)C3CCCC3)c2)c(C(C)C)c1
+Phosphines1501-2000.sdf,"(1S,4S,5S)-2-[(4-Methylphenyl)sulfonyl]-5-phenyl-2-aza-5-phosphabicyclo[2.2.1...",Cc1ccc(S(=O)(=O)N2C[C@@H]3C[C@H]2C[P@]3c2ccccc2)cc1
+Phosphines1501-2000.sdf,2-(Dicyclohexylphosphino)-1-(1-naphthalenyl)-1H-pyrrole,c1ccc2c(-n3cccc3P(C3CCCCC3)C3CCCCC3)cccc2c1
+Phosphines2001-2500.sdf,,Cc1ccc(S(=O)(=O)N2C[C@@H]3C[C@H]2C[P@@]3c2ccc3ccccc3c2)cc1
+Phosphines2001-2500.sdf,"2-[Bis(tricyclo[3.3.1.13,7]dec-1-yl)phosphino]-1-phenyl-1H-pyrrole",c1ccc(-n2cccc2P(C23CC4CC(CC(C4)C2)C3)C23CC4CC(CC(C4)C2)C3)cc1
+Phosphines2001-2500.sdf,"2-[Bis(tricyclo[3.3.1.13,7]dec-1-yl)phosphino]-1-phenyl-1H-indole",c1ccc(-n2c(P(C34CC5CC(CC(C5)C3)C4)C34CC5CC(CC(C5)C3)C4)cc3ccccc32)cc1
+Phosphines2001-2500.sdf,"1-(1,1-Dimethylethyl)phospholane",CC(C)(C)P1CCCC1
+Phosphines2001-2500.sdf,"1-(1,1-Dimethylethyl)phosphepane",CC(C)(C)P1CCCCCC1
+Phosphines2001-2500.sdf,Ethyl 2-(diethylphosphino)acetate,CCOC(=O)CP(CC)CC
+Phosphines2001-2500.sdf,"1-(1,1-Dimethylethyl)-2,3,6,7-tetrahydro-1H-phosphepin",CC(C)(C)P1CCC=CCC1
+Phosphines2001-2500.sdf,"trans-1,2,2,3,4,4-Hexamethylphosphetane",CC1(C)[C@H](C)C(C)(C)[P@@]1C
+Phosphines2001-2500.sdf,"P,P-Bis(1,1-dimethylethyl)-N-(2-methylphenyl)phosphinous amide",Cc1ccccc1NP(C(C)(C)C)C(C)(C)C
+Phosphines2001-2500.sdf,"Bis(3,5-dimethylphenyl)phenylphosphine",Cc1cc(C)cc(P(c2ccccc2)c2cc(C)cc(C)c2)c1
+Phosphines2001-2500.sdf,2-(Dicyclohexylphosphino)pyridine,c1ccc(P(C2CCCCC2)C2CCCCC2)nc1
+Phosphines2001-2500.sdf,"2′-(Diethylphosphino)-N,N-dimethyl[1,1′-biphenyl]-2-amine",CCP(CC)c1ccccc1-c1ccccc1N(C)C
+Phosphines2001-2500.sdf,"Phosphine, cyclopentylbis(3,5-dimethylphenyl)-",Cc1cc(C)cc(P(c2cc(C)cc(C)c2)C2CCCC2)c1
+Phosphines2001-2500.sdf,"4-Methyl-2,6,7-tris(2-methylpropyl)-2,6,7-triaza-1-phosphabicyclo[2.2.2]octane",CC(C)CN1CC2(C)CN(CC(C)C)P1N(CC(C)C)C2
+Phosphines2501-3000.sdf,Dicyclohexyl[(1Z)-2-phenylethenyl]phosphine,C(=C\P(C1CCCCC1)C1CCCCC1)\c1ccccc1
+Phosphines2501-3000.sdf,"[1,1′-Biphenyl]-2-yldicyclopentylphosphine",c1ccc(-c2ccccc2P(C2CCCC2)C2CCCC2)cc1
+Phosphines2501-3000.sdf,"Tris[3-(1,1-dimethylethyl)phenyl]phosphine",CC(C)(C)c1cccc(P(c2cccc(C(C)(C)C)c2)c2cccc(C(C)(C)C)c2)c1
+Phosphines2501-3000.sdf,Tris[2-(phenylmethyl)phenyl]phosphine,c1ccc(Cc2ccccc2P(c2ccccc2Cc2ccccc2)c2ccccc2Cc2ccccc2)cc1
+Phosphines2501-3000.sdf,"4,4′,4′′-Phosphinidynetris[3-methylbenzonitrile]",Cc1cc(C#N)ccc1P(c1ccc(C#N)cc1C)c1ccc(C#N)cc1C
+Phosphines2501-3000.sdf,"Bis(1-methylethyl)[2′,4′,6′-tris(1-methylethyl)[1,1′-biphenyl]-2-yl]phosphine",CC(C)c1cc(C(C)C)c(-c2ccccc2P(C(C)C)C(C)C)c(C(C)C)c1
+Phosphines2501-3000.sdf,Dicyclohexyl(2-phenyl-1-cyclohexen-1-yl)phosphine,c1ccc(C2=C(P(C3CCCCC3)C3CCCCC3)CCCC2)cc1
+Phosphines2501-3000.sdf,"Bis[3,5-bis(1,1-dimethylethyl)phenyl]phenylphosphine",CC(C)(C)c1cc(P(c2ccccc2)c2cc(C(C)(C)C)cc(C(C)(C)C)c2)cc(C(C)(C)C)c1
+Phosphines3001-3500.sdf,"Phenylbis(tricyclo[3.3.1.13,7]dec-1-yl)phosphine",c1ccc(P(C23CC4CC(CC(C4)C2)C3)C23CC4CC(CC(C4)C2)C3)cc1
+Phosphines3001-3500.sdf,"Phosphine, dicyclohexyl(2,2-diphenylethenyl)-",C(=C(c1ccccc1)c1ccccc1)P(C1CCCCC1)C1CCCCC1
+Phosphines3001-3500.sdf,"Phosphonous diamide, P-[2′-(dimethylamino)[1,1′-biphenyl]-2-yl]-N,N,N′,N′-tet...",CCN(CC)P(c1ccccc1-c1ccccc1N(C)C)N(CC)CC
+Phosphines3001-3500.sdf,"1H-Pyrrole, 1,1′-([1,1′-biphenyl]-2-ylphosphinidene)bis-",c1ccc(-c2ccccc2P(n2cccc2)n2cccc2)cc1
+Phosphines3001-3500.sdf,[(1S)-2-(2-Methoxy-1-naphthalenyl)phenyl]diphenylphosphine,COc1ccc2ccccc2c1-c1ccccc1P(c1ccccc1)c1ccccc1
+Phosphines3001-3500.sdf,[2-(2-Methoxy-1-naphthalenyl)phenyl]diphenylphosphine,COc1ccc2ccccc2c1-c1ccccc1P(c1ccccc1)c1ccccc1
+Phosphines3001-3500.sdf,Dicyclohexyl(1-phenyl-2-naphthalenyl)phosphine,c1ccc(-c2c(P(C3CCCCC3)C3CCCCC3)ccc3ccccc23)cc1
+Phosphines3001-3500.sdf,"(2′,6′-Dimethoxy[1,1′-biphenyl]-2-yl)bis(2-methylphenyl)phosphine",COc1cccc(OC)c1-c1ccccc1P(c1ccccc1C)c1ccccc1C
+Phosphines3001-3500.sdf,1-Butyl-2-(dicyclohexylphosphino)-1H-pyrrole,CCCCn1cccc1P(C1CCCCC1)C1CCCCC1
+Phosphines3001-3500.sdf,"3,9-Dimethyl-2,10-bis(trimethylsilyl)-4H-1,4-ethenophosphinoline",CC1=C([Si](C)(C)C)P2C([Si](C)(C)C)=C(C)C1c1ccccc12
+Phosphines3501-4000.sdf,"5,7-Dimethyl-5H,7H-[1,3,2]benzodiazaphospholo[1,2-a][1,3,2]benzodiazaphosphole",CN1c2ccccc2N2c3ccccc3N(C)P12
+Phosphines3501-4000.sdf,"Phosphine, dicyclohexyl[1-(diphenylmethylene)propyl]-",CCC(=C(c1ccccc1)c1ccccc1)P(C1CCCCC1)C1CCCCC1
+Phosphines3501-4000.sdf,"1,1′,1′′-Trimethyl 4,4′,4′′-phosphinidynetris[benzoate]",COC(=O)c1ccc(P(c2ccc(C(=O)OC)cc2)c2ccc(C(=O)OC)cc2)cc1
+Phosphines3501-4000.sdf,Dicyclohexyl[1-(diphenylmethylene)-2-methylpropyl]phosphine,CC(C)C(=C(c1ccccc1)c1ccccc1)P(C1CCCCC1)C1CCCCC1
+Phosphines3501-4000.sdf,"1-(2-Methylphenyl)-2,5-diphenyl-1H-phosphole",Cc1ccccc1-p1c(-c2ccccc2)ccc1-c1ccccc1
+Phosphines3501-4000.sdf,"Benzenamine, 4,4′,4′′-phosphinidynetris[N,N,3-trimethyl-",Cc1cc(N(C)C)ccc1P(c1ccc(N(C)C)cc1C)c1ccc(N(C)C)cc1C
+Phosphines3501-4000.sdf,Tris[2-methyl-4-(1-methylethoxy)phenyl]phosphine,Cc1cc(OC(C)C)ccc1P(c1ccc(OC(C)C)cc1C)c1ccc(OC(C)C)cc1C
+Phosphines3501-4000.sdf,"10-Phenyl-10H-5,10[1′,2′]-benzenophenophosphasilin",c1ccc([Si]23c4ccccc4P(c4ccccc42)c2ccccc23)cc1
+Phosphines4001-4500.sdf,"1,1′,1′′-Phosphinidynetris[1H-indole]",c1ccc2c(c1)ccn2P(n1ccc2ccccc21)n1ccc2ccccc21
+Phosphines4001-4500.sdf,Tris[4-methoxy-2-(phenylmethyl)phenyl]phosphine,COc1ccc(P(c2ccc(OC)cc2Cc2ccccc2)c2ccc(OC)cc2Cc2ccccc2)c(Cc2ccccc2)c1
+Phosphines4501-5000.sdf,"Dicyclohexyl(3,4-dihydro-1-phenyl-2-naphthalenyl)phosphine",c1ccc(C2=C(P(C3CCCCC3)C3CCCCC3)CCc3ccccc32)cc1
+Phosphines4501-5000.sdf,Tris(2-methyl-4-nitrophenyl)phosphine,Cc1cc([N+](=O)[O-])ccc1P(c1ccc([N+](=O)[O-])cc1C)c1ccc([N+](=O)[O-])cc1C
+Phosphines4501-5000.sdf,"Dicyclohexyl[2,2′′,4,4′′,6,6′′-hexakis(1-methylethyl)[1,1′:3′,1′′-terphenyl]-...",CC(C)c1cc(C(C)C)c(-c2cc(-c3c(C(C)C)cc(C(C)C)cc3C(C)C)cc(P(C3CCCCC3)C3CCCCC3)c2)c(C(C)C)c1
+Phosphines4501-5000.sdf,"1,1′,1′′-Trimethyl 4,4′,4′′-phosphinidynetris[3-methylbenzoate]",COC(=O)c1ccc(P(c2ccc(C(=O)OC)cc2C)c2ccc(C(=O)OC)cc2C)c(C)c1
+Phosphines4501-5000.sdf,"P,P-Bis(1,3-benzodioxol-5-yl)-N,N-bis(1-methylethyl)phosphinous amide",CC(C)N(C(C)C)P(c1ccc2c(c1)OCO2)c1ccc2c(c1)OCO2
+Phosphines4501-5000.sdf,"N-[1,3-Dihydro-4,5-dimethyl-1,3-bis(1-methylethyl)-2H-imidazol-2-ylidene]-P,P...",Cc1c(C)n(C(C)C)c(=NP(C(C)C)C(C)C)n1C(C)C
+Phosphines5001-5500.sdf,1-(Diphenylphosphino)-2-phenyl-1H-indole,c1ccc(-c2cc3ccccc3n2P(c2ccccc2)c2ccccc2)cc1
+Phosphines5001-5500.sdf,"9H-Carbazole, 9,9′,9′′-phosphinidynetris-",c1ccc2c(c1)c1ccccc1n2P(n1c2ccccc2c2ccccc21)n1c2ccccc2c2ccccc21
+Phosphines501-1000.sdf,"5-[Bis(1,1-dimethylethyl)phosphino]-1-(1-naphthalenyl)-1H-pyrazole",CC(C)(C)P(c1ccnn1-c1cccc2ccccc12)C(C)(C)C
+Phosphines501-1000.sdf,1-(Dicyclohexylphosphino)-2-(2-methylphenyl)-1H-indole,Cc1ccccc1-c1cc2ccccc2n1P(C1CCCCC1)C1CCCCC1
+Phosphines501-1000.sdf,3-(Diphenylphosphino)benzenesulfonic acid,O=S(=O)(O)c1cccc(P(c2ccccc2)c2ccccc2)c1
+Phosphines501-1000.sdf,"2-(1,1-Dimethylpropyl)-6-(diphenylphosphino)pyridine",CCC(C)(C)c1cccc(P(c2ccccc2)c2ccccc2)n1
+Phosphines501-1000.sdf,Diethyl methylphosphonite,CCOP(C)OCC
+Phosphines501-1000.sdf,(4-Methoxyphenyl)diphenylphosphine,COc1ccc(P(c2ccccc2)c2ccccc2)cc1
+Phosphines501-1000.sdf,2-[2-(Diphenylphosphino)phenyl]-1-methyl-1H-indole,Cn1c(-c2ccccc2P(c2ccccc2)c2ccccc2)cc2ccccc21
+Phosphines501-1000.sdf,"Dicyclohexyl[2′-(1-methylethyl)[1,1′-biphenyl]-2-yl]phosphine",CC(C)c1ccccc1-c1ccccc1P(C1CCCCC1)C1CCCCC1
+Phosphines501-1000.sdf,"1-[Bis(1-methylethyl)phosphino]-N,N-dimethyl-1H-inden-2-amine",CC(C)P(C(C)C)C1C(N(C)C)=Cc2ccccc21
+Phosphines501-1000.sdf,tert-Butyldiisopropylphosphine,CC(C)P(C(C)C)C(C)(C)C
+Phosphines501-1000.sdf,Di-tert-butylisopropylphosphine,CC(C)P(C(C)(C)C)C(C)(C)C
+Phosphines501-1000.sdf,Bis(1-methylethyl) P-phenylphosphonite,CC(C)OP(OC(C)C)c1ccccc1
+Phosphines501-1000.sdf,"1,1′,1′′-Phosphinidynetris[piperidine]",C1CCN(P(N2CCCCC2)N2CCCCC2)CC1
+Phosphines501-1000.sdf,Tris(morpholino)phosphine,C1CN(P(N2CCOCC2)N2CCOCC2)CCO1
+Phosphines501-1000.sdf,"P,P-Diphenyl-N,N-di-2-pyridinylphosphinous amide",c1ccc(P(c2ccccc2)N(c2ccccn2)c2ccccn2)cc1
+Phosphines501-1000.sdf,Tripropylphosphine,CCCP(CCC)CCC
+Phosphines501-1000.sdf,"Bis(1,1-dimethylethyl)(2,2-dimethylpropyl)phosphine",CC(C)(C)CP(C(C)(C)C)C(C)(C)C
+Phosphines501-1000.sdf,"N,N-Bis(1-methylethyl)-P,P-diphenylphosphinous amide",CC(C)N(C(C)C)P(c1ccccc1)c1ccccc1
+Phosphines501-1000.sdf,3-(Dicyclohexylphosphino)-1-methyl-2-phenyl-1H-indole,Cn1c(-c2ccccc2)c(P(C2CCCCC2)C2CCCCC2)c2ccccc21
+Phosphines501-1000.sdf,"N,N,N′,N′,P-Pentamethylphosphonous diamide",CN(C)P(C)N(C)C
+Phosphines501-1000.sdf,"[2,6-Bis(1-methylethoxy)phenyl]dicyclohexylphosphine",CC(C)Oc1cccc(OC(C)C)c1P(C1CCCCC1)C1CCCCC1
+Phosphines501-1000.sdf,"Butylbis(1,1-dimethylethyl)phosphine",CCCCP(C(C)(C)C)C(C)(C)C
+Phosphines501-1000.sdf,"4-(Diethylphosphino)-N,N-dimethylbenzenamine",CCP(CC)c1ccc(N(C)C)cc1
+Phosphines501-1000.sdf,2-(Dicyclohexylphosphino)-3-methoxy-N-methyl-N-phenylbenzenamine,COc1cccc(N(C)c2ccccc2)c1P(C1CCCCC1)C1CCCCC1
+Phosphines501-1000.sdf,Bis(hydroxymethyl)phenylphosphine,OCP(CO)c1ccccc1
+Phosphines501-1000.sdf,"rel-(3aR,8aR)-Tetrahydro-N,N,2,2-tetramethyl-4,4,8,8-tetraphenyl-1,3-dioxolo[...",CN(C)P1OC(c2ccccc2)(c2ccccc2)[C@@H]2OC(C)(C)O[C@H]2C(c2ccccc2)(c2ccccc2)O1
+Phosphines501-1000.sdf,"(1,1-Dimethylethyl)dimethylphosphine",CP(C)C(C)(C)C
+Phosphines501-1000.sdf,Diphenyl[(1E)-2-phenylethenyl]phosphine,C(=C/P(c1ccccc1)c1ccccc1)\c1ccccc1
+Phosphines5501-6000.sdf,,c1ccc(P(C2CCCCC2)C2CCCCC2)c(-c2c(-c3c4ccccc4cc4ccccc34)ccc3ccccc23)c1
+Phosphines5501-6000.sdf,"[2,2-Bis(2-methoxyphenyl)-1-methylethenyl]dicyclohexylphosphine",COc1ccccc1C(=C(C)P(C1CCCCC1)C1CCCCC1)c1ccccc1OC
+Phosphines5501-6000.sdf,"N-[1,3-Dihydro-4,5-dimethyl-1,3-bis(1-methylethyl)-2H-imidazol-2-ylidene]-P,P...",Cc1c(C)n(C(C)C)c(=NP(C(C)(C)C)C(C)(C)C)n1C(C)C
+Phosphines5501-6000.sdf,"(1S,4S,5R)-5-(4-Methoxyphenyl)-2-[(4-methylphenyl)sulfonyl]-2-aza-5-phosphabi...",COc1ccc([P@]2C[C@@H]3C[C@H]2CN3S(=O)(=O)c2ccc(C)cc2)cc1
+Phosphines6001-6500.sdf,,Cc1ccc(S(=O)(=O)N2C[C@@H]3C[C@H]2C[P@@]3c2cccc3ccccc23)cc1
+Phosphines6001-6500.sdf,"Dicyclohexyl[3,4-dihydro-1-(2-methoxyphenyl)-2-naphthalenyl]phosphine",COc1ccccc1C1=C(P(C2CCCCC2)C2CCCCC2)CCc2ccccc21
+Phosphines6001-6500.sdf,"1H-Pyrrole-3,4-dicarboxylic acid, 1-(diphenylphosphino)-, diethyl ester",CCOC(=O)c1cn(P(c2ccccc2)c2ccccc2)cc1C(=O)OCC
+Phosphines6001-6500.sdf,"13-Phenyl-12H-dibenzo[d,g][1,3,2]dioxaphosphocin-6,12-imine",c1ccc(N2C3c4ccccc4OP2Oc2ccccc23)cc1
+Phosphines6001-6500.sdf,3-(Diphenylphosphino)-1-methyl-2-phenyl-1H-indole,Cn1c(-c2ccccc2)c(P(c2ccccc2)c2ccccc2)c2ccccc21
+Phosphines6501-7000.sdf,"[2,7-Bis(1,1-dimethylethyl)-9,9-dimethyl-9H-xanthen-4-yl]diphenylphosphine",CC(C)(C)c1ccc2c(c1)C(C)(C)c1cc(C(C)(C)C)cc(P(c3ccccc3)c3ccccc3)c1O2
+Phosphines6501-7000.sdf,"1,3-Bis[2,6-bis(1-methylethyl)phenyl]-2-(diphenylphosphino)-2,3-dihydro-1H-1,...",CC(C)c1cccc(C(C)C)c1N1C=CN(c2c(C(C)C)cccc2C(C)C)B1P(c1ccccc1)c1ccccc1
+Phosphines6501-7000.sdf,"13-Cyclohexyl-12H-dibenzo[d,g][1,3,2]dioxaphosphocin-6,12-imine",c1ccc2c(c1)OP1Oc3ccccc3C2N1C1CCCCC1
+Phosphines6501-7000.sdf,"N-[1,3-Dihydro-4,5-dimethyl-1,3-bis(1-methylethyl)-2H-imidazol-2-ylidene]-P,P...",Cc1c(C)n(C(C)C)c(=NP(c2ccccc2)c2ccccc2)n1C(C)C
+Phosphines7001-7500.sdf,3-(Diphenylphosphino)-1-methyl-2-(2-methylphenyl)-1H-indole,Cc1ccccc1-c1c(P(c2ccccc2)c2ccccc2)c2ccccc2n1C
+Phosphines7001-7500.sdf,3-(Diphenylphosphino)-1-methyl-2-(1-naphthalenyl)-1H-indole,Cn1c(-c2cccc3ccccc23)c(P(c2ccccc2)c2ccccc2)c2ccccc21
+Phosphines7501-8000.sdf,"13-(3,5-Dimethylphenyl)-12H-dibenzo[d,g][1,3,2]dioxaphosphocin-6,12-imine",Cc1cc(C)cc(N2C3c4ccccc4OP2Oc2ccccc23)c1
+Phosphines7501-8000.sdf,"2,10-Bis(2,4-dimethylphenyl)-4-phenyl-4H-1,4-ethenophosphinoline",Cc1ccc(C2=CC3(c4ccccc4)C=C(c4ccc(C)cc4C)P2c2ccccc23)c(C)c1
+Phosphines8501-9000.sdf,"N-[1,3-Dihydro-4,5-dimethyl-1,3-bis(1-methylethyl)-2H-imidazol-2-ylidene]-P,P...",Cc1cc(C)c(P(N=c2n(C(C)C)c(C)c(C)n2C(C)C)c2c(C)cc(C)cc2C)c(C)c1
+Phosphines8501-9000.sdf,"13-(3,5-Dimethoxyphenyl)-12H-dibenzo[d,g][1,3,2]dioxaphosphocin-6,12-imine",COc1cc(OC)cc(N2C3c4ccccc4OP2Oc2ccccc23)c1

@@ -1,0 +1,1 @@
+{"index": 347, "n_experiments": 153, "seconds_gbo": 276.1951625999063, "gen_gbo": 64.22455118351543, "rec_gbo": ["COc1cccc(OC)c1-c1ccccc1P(C1CCCCC1)C1CCCCC1", "[Na+].[OH-]", "CO.O"], "gen_pipeline": 66.66345719449951, "gen_random": 60.02205287463282, "gen_bo": 52.1479904899538, "reference_ceiling": 99.07245507676298}

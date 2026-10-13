@@ -1,0 +1,1 @@
+{"index": 2, "n_experiments": 194, "seconds_gbo": 445.81598469999153, "gen_gbo": 41.83734375, "rec_gbo": ["COc1ccc(OC)c(P(c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c2cc(C(F)(F)F)cc(C(F)(F)F)c2)c1-c1c(C(C)C)cc(C(C)C)cc1C(C)C"], "gen_pipeline": 43.6196875, "gen_random": 46.18296875, "gen_bo": 41.83734375}

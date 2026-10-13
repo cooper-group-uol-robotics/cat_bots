@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# publisher text of the source papers: kept locally for reference, not redistributable
+src/data/reaction_benchmarks/**/paper_*.txt
+CLAUDE.md
+
+# IDE settings
+.idea/

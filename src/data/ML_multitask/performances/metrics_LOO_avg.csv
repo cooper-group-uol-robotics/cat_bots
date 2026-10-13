@@ -1,0 +1,2 @@
+model,n_features,loo_r2,loo_mae,loo_rmse
+multitask_enet_LOO,32,0.002732482325141583,20.62226917086297,26.152247959313684

@@ -1,0 +1,9 @@
+benchmark,strategy,best_yield_mean,best_yield_sd,found_global_max,top5_coverage_mean,top5_coverage_sd,kept_contains_best,p_coverage_vs_bo,p_best_vs_bo
+shields_arylation,random,89.552,8.151,0.06,0.033,0.018,,0.0,0.0
+shields_arylation,bo,97.788,4.152,0.64,0.222,0.063,,,
+shields_arylation,bo_kennard_stone,98.618,3.344,0.63,0.227,0.056,,0.5866,0.121
+shields_arylation,screen3_bo,96.64,5.481,0.5,0.221,0.07,0.75,0.8551,0.0967
+perera_suzuki_edbo,random,95.999,2.116,0.05,0.015,0.009,,0.0,0.0
+perera_suzuki_edbo,bo,97.836,1.515,0.15,0.059,0.02,,,
+perera_suzuki_edbo,bo_kennard_stone,97.723,1.387,0.11,0.057,0.02,,0.4559,0.5844
+perera_suzuki_edbo,screen3_bo,97.158,1.885,0.09,0.056,0.028,0.25,0.3219,0.0056

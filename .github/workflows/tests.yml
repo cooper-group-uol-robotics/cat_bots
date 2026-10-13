@@ -1,0 +1,30 @@
+# Runs the test suite on every push and pull request: a clean pip install of the package, then pytest.
+# The conda lock file is Windows-only, so CI installs from pyproject.toml instead (same packages, PyPI wheels).
+name: tests
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:   # also allows a manual run from the Actions tab
+
+jobs:
+  pytest:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, windows-latest]
+        python-version: ["3.11", "3.12"]
+    env:
+      OMP_NUM_THREADS: "1"
+      MPLBACKEND: Agg   # no display on CI runners
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: pip
+      - name: Install catbots
+        run: python -m pip install ".[dev]"
+      - name: Run tests
+        run: python -m pytest -q

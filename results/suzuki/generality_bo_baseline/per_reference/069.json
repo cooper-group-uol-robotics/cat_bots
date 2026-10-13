@@ -1,0 +1,1 @@
+{"index": 69, "n_experiments": 153, "seconds_gbo": 197.38487069995608, "gen_gbo": 52.209041756537545, "rec_gbo": ["C1CCC(P(C2CCCCC2)C2CCCCC2)CC1", "CCN(CC)CC", "C1CCOC1.O"], "gen_pipeline": 57.92931886072073, "gen_random": 47.15015070456086, "gen_bo": 57.61426418767282, "reference_ceiling": 96.82766612677105}

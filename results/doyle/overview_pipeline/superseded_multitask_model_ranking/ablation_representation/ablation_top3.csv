@@ -1,0 +1,6 @@
+arm,top-3 hit rate
+pipeline (Kraken + RDKit),0.734375
+pipeline (CheMeleon),0.671875
+pipeline (combined),0.859375
+random,0.515625
+bo,0.4375

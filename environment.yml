@@ -1,0 +1,28 @@
+name: cat-bots
+channels:
+  - conda-forge
+channel_priority: strict
+
+dependencies:
+  - python=3.11
+  - numpy
+  # pandas/pillow/packaging upper bounds keep conda in line with streamlit's (pip) requirements,
+  # otherwise pip installs a second, older copy over the conda one
+  - pandas<3
+  - pillow<12
+  - packaging<26
+  - scipy
+  - scikit-learn
+  - scikit-learn-extra        
+  - rdkit                      
+  - shap                       
+  - matplotlib                 
+  - ipykernel                  
+  - jupyterlab
+  - pytest
+  - conda-lock                
+  - pip                        
+  - pip:
+     - pubchempy
+     - streamlit
+      
