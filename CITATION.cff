@@ -11,15 +11,15 @@ authors:
   - family-names: Kotopanov
     given-names: Lyubomir
     affiliation: University of Liverpool
-
   - family-names: Ayme
     given-names: Jean-Francois
     affiliation: University of Liverpool
   
 version: 0.1.0
-date-released: 2026-10-12
+date-released: 2026-10-13
 license: MIT
 repository-code: "https://github.com/cooper-group-uol-robotics/cat_bots"
+doi: 10.5281/zenodo.23338748
 keywords:
   - reaction optimisation
   - Bayesian optimisation
